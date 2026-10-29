@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c234",
+    "name": "sarik",
+    "email": "sa@gmail.com",
+    "password": "121212",
+    "mobile_number": "xxxxx",
+    "qualification": [
+      "bca"
+    ],
+    "course": "data science",
+    "date": "29/10/2026"
+  }
+]
