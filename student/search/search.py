@@ -1,6 +1,6 @@
 from ..filehandling import*
 def search():
-    print("1:email search=")
+    print("1:email search")
     print("2:name search")
     print("3:course search")
     ch = int(input("enter your choice: "))
