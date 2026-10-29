@@ -1,7 +1,0 @@
-2026-10-29 09:23:39,798 - ERROR - [Errno 2] No such file or directory: 'data/data.json'
-2026-10-29 09:23:39,799 - ERROR - 'NoneType' object has no attribute 'append'
-2026-10-29 09:40:16,050 - ERROR - name 'getdat' is not defined
-2026-10-29 10:04:16,836 - ERROR - 'type' object does not support item assignment
-2026-10-29 10:04:27,996 - ERROR - 'type' object does not support item assignment
-2026-10-29 10:08:53,570 - ERROR - 'type' object does not support item assignment
-2026-10-29 10:10:49,856 - ERROR - 'type' object does not support item assignment
